@@ -1,1 +1,1 @@
-# Raspagem_de_dados_shopee
+Codigo feito para extração de dados de vendas dos produtos de lojas da shopee, Coloque o caminho para o chrome driver ou ponha ele no mesmo diretorio que o codigo, assim que você digitar o link da pagina "todos os produtos" do vendedor , rode os proximos blocos , ao final do codigo ira gerar um arquivo xslx na mesma pasta com os dados raspados.
